@@ -1,0 +1,7 @@
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\bin\Debug\E63_E64_Arreglo_Head_Tail.exe.config
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\bin\Debug\E63_E64_Arreglo_Head_Tail.exe
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\bin\Debug\E63_E64_Arreglo_Head_Tail.pdb
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\obj\Debug\E63_E64_Arreglo_Head_Tail.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\obj\Debug\E63_E64_Arreglo_Head_Tail.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\obj\Debug\E63_E64_Arreglo_Head_Tail.exe
+C:\Users\Yesica Moreno\source\repoS11\E63_E64_Arreglo_Head_Tail\E63_E64_Arreglo_Head_Tail\obj\Debug\E63_E64_Arreglo_Head_Tail.pdb
